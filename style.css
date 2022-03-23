@@ -21,8 +21,6 @@ h1 {
 
 .box {
     margin: 2%;
-    width: 80vw;
-    height: 75vh;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -41,5 +39,7 @@ h1 {
 
 .rightside{
     border: solid 1px black;
-    width: 55vw;
+    height: 500px;
+    width: 500px;
+    display: grid;
 }
