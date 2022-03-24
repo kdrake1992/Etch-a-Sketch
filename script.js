@@ -27,7 +27,7 @@ reset.addEventListener("click", function() {
         playGame(newSize);
     }
     else {
-        alert("Incorrect size. Default size of 16 will show.")
-        playGame(16.
+        alert("Incorrect size. Default size of 16 game will start.")
+        playGame(16)
     }
 });
